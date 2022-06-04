@@ -1,6 +1,6 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MegaMindInKZ&show_icons=true&theme=dark)
-
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MegaMindInKZ&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MegaMindInKZ&theme=gruvbox&hide_border=true" />
 <!--
 **MegaMindInKZ/MegaMindInKZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
