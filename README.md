@@ -6,6 +6,8 @@ class User{
     String university = "Suleyman Demirel University";
     String school = "Semey bilim-innovation high school";
     String programmingLanguages = "Java, GO, Python";
+    String staff = "Java Back-end developer";
+    String working_place = "Jana Post";
 }
 ```
 
